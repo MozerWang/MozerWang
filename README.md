@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Minzheng Wang</h1>
+<h3 align="center">
+  I'm a first-year PhD student at MAIS, Institute of Automation, Chinese Academy of Sciences.
+</h3>
 
-<!--
-**MozerWang/MozerWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently interested in **LLM Safety**.
 
-Here are some ideas to get you started:
+- 📫 How to reach me **wangminzheng2023@ia.ac.cn**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="left">If you are also interested in LLM Safety, welcome to contact me for discussion!🥰🥰🥰</h5>
+<p align="left">
+</p>
+
+### News
+
+📰 Our Paper <a href="https://arxiv.org/abs/2308.15727">Quantifying and Analyzing Entity-level Memorization in Large Language Models</a> has been accepted by AAAI2024!
