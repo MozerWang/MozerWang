@@ -11,6 +11,3 @@
 <p align="left">
 </p>
 
-### News
-
-📰 Our Paper <a href="https://arxiv.org/abs/2308.15727">Quantifying and Analyzing Entity-level Memorization in Large Language Models</a> has been accepted by AAAI2024!
