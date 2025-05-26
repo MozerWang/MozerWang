@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Minzheng Wang</h1>
+<h1 align="center">Hi there👋, I'm Minzheng Wang</h1> ![MozerWang](https://komarev.com/ghpvc/?username=MozerWang&style=for-the-badge) 
 <h3 align="center">
   I'm a second-year PhD student at the MAIS, Institute of Automation, Chinese Academy of Sciences.
 </h3>
